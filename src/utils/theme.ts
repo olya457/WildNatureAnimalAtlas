@@ -1,0 +1,32 @@
+export const COLORS = {
+  background: '#1A0B2E',
+  backgroundDark: '#0F0620',
+  primary: '#FFD700',
+  primaryDark: '#E6C200',
+  accent: '#9D4EDD',
+  cardBg: 'rgba(40, 20, 70, 0.7)',
+  cardBgSolid: '#2D1B4E',
+  inputBg: 'rgba(60, 30, 90, 0.5)',
+  text: '#FFFFFF',
+  textSecondary: '#B8A8D1',
+  textMuted: '#7A6A94',
+  border: 'rgba(255, 215, 0, 0.3)',
+  borderActive: '#FFD700',
+  overlay: 'rgba(0, 0, 0, 0.5)',
+  success: '#4ADE80',
+  error: '#F87171',
+  transparent: 'transparent',
+  navBg: 'rgba(30, 15, 50, 0.95)',
+  navActiveBg: 'rgba(255, 215, 0, 0.15)',
+};
+
+export const SIZES = {
+  radiusSmall: 8,
+  radiusMedium: 16,
+  radiusLarge: 24,
+  radiusXL: 32,
+  paddingSmall: 8,
+  paddingMedium: 16,
+  paddingLarge: 24,
+  navHeight: 70,
+};
