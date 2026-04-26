@@ -1,4 +1,4 @@
-package com.wild.nature.animal.atlas
+package com.wildlifeatlasguide
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

@@ -1,4 +1,4 @@
-package com.wild.nature.animal.atlas
+package com.wildlifeatlasguide
 
 import android.app.Application
 import com.facebook.react.PackageList

@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.wild.nature.animal.atlas"
+    namespace "com.wildlifeatlasguide"
     defaultConfig {
-        applicationId "com.wild.nature.animal.atlas"
+        applicationId "com.wildlifeatlasguide"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
